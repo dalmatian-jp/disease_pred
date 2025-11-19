@@ -1,0 +1,4 @@
+*.crc
+*.parquet
+*.csv
+*/_SUCCESS
